@@ -1,9 +1,6 @@
 {
   "github": {
     "tokenRef": "d6a70178a134e023ab41993e918a2cd6d40583d6"
-  },
-   "dist": {
-    "repo": "git@github.com:fgchaves/new-project-ng2.git#gh-pages",
-    "beforeStageCommand": "cat front.yml ../README.md > index.md"
-  }    
+  }
+  
 }
